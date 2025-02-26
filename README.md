@@ -87,7 +87,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Celerium/Cel
 [Az_Pipeline-url-Celerium.ITGlue]:                  https://dev.azure.com/AzCelerium/Celerium.ITGlue/_build?definitionId=12
 
 [PoshGallery_Version-shield-Celerium.ITGlue]:       https://img.shields.io/powershellgallery/v/Celerium.ITGlue?include_prereleases&style=for-the-badge
-[PoshGallery_Version-url-Celerium.ITGlue]:          https://img.shields.io/powershellgallery/v/Celerium.ITGlue?include_prereleases&style=for-the-badge
+[PoshGallery_Version-url-Celerium.ITGlue]:          https://www.powershellgallery.com/packages/Celerium.ITGlue
 
 [GitHub_License-shield]:            https://img.shields.io/github/license/Celerium/Celerium-PowerShell?style=for-the-badge
 [GitHub_License-url]:               https://github.com/Celerium/Celerium-PowerShell/blob/master/LICENSE
