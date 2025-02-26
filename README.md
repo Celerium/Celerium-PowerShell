@@ -35,7 +35,7 @@
 
 ## About The Project
 
-[Celerium PowerShell](https://celerium.org/) - A collection of modules, functions, scripts, and more to help automate, audit, and manage your IT environment.
+[Celerium](https://celerium.org/) PowerShell - A collection of modules, functions, scripts, and more to help automate, audit, and manage your IT environment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
