@@ -10,7 +10,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
 [![GitHub_License][GitHub_License-shield]][GitHub_License-url]
 
 <a name="readme-top"></a>
