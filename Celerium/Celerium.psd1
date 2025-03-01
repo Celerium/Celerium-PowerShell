@@ -49,7 +49,8 @@
 
     # Modules that must be imported into the global environment prior to importing this module
     RequiredModules = @(
-        @{ ModuleName = 'Celerium.ITGlue'; ModuleVersion = '1.0.0'; Guid = 'ce707f0f-1969-4192-a08b-80f62be28f2f' }
+        @{ ModuleName = 'Celerium.ITGlue'; ModuleVersion = '1.0.0'; Guid = 'ce707f0f-1969-4192-a08b-80f62be28f2f' },
+        @{ ModuleName = 'Celerium.Auvik'; ModuleVersion = '1.0.0'; Guid = 'c4624e25-e787-48eb-a8d5-a4c8e287412f' }
     )
 
     # Assemblies that must be loaded prior to importing this module
