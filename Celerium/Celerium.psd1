@@ -12,7 +12,7 @@
     # RootModule = 'Celerium.psm1'
 
     # Version number of this module.
-    ModuleVersion = '1.1.0'
+    ModuleVersion = '1.2.0'
 
     # ID used to uniquely identify this module
     GUID = 'c1b1c1e0-0ba5-4c69-bd92-393d69d10a62'
@@ -50,7 +50,7 @@
     # Modules that must be imported into the global environment prior to importing this module
     RequiredModules = @(
         @{ ModuleName = 'Celerium.ITGlue'; ModuleVersion = '1.0.0'; Guid = 'ce707f0f-1969-4192-a08b-80f62be28f2f' },
-        @{ ModuleName = 'Celerium.Auvik'; ModuleVersion = '1.0.0'; Guid = 'c4624e25-e787-48eb-a8d5-a4c8e287412f' }
+        @{ ModuleName = 'Celerium.Auvik'; ModuleVersion = '1.1.0'; Guid = 'c4624e25-e787-48eb-a8d5-a4c8e287412f' }
     )
 
     # Assemblies that must be loaded prior to importing this module
