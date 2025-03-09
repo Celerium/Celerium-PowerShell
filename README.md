@@ -54,8 +54,9 @@ The following table contains a list of the PowerShell rollup modules.
 
 | Module        | Description                                                   | PowerShell Gallery                                                            | Build Status                                   |
 |---------------|---------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------|
-|Celerium.ITGlue| PowerShell wrapper for the [ITGlue API](https://api.itglue.com/developer) | [![PoshGallery_Version][PoshGallery_Version-shield-Celerium.ITGlue]][PoshGallery_Version-url-Celerium.ITGlue] | [![Az_Pipeline][Az_Pipeline-shield-Celerium.ITGlue]][Az_Pipeline-url-Celerium.ITGlue] |
 |Celerium.Auvik| PowerShell wrapper for the [Auvik API](https://auvikapi.us1.my.auvik.com/docs) | [![PoshGallery_Version][PoshGallery_Version-shield-Celerium.Auvik]][PoshGallery_Version-url-Celerium.Auvik] | [![Az_Pipeline][Az_Pipeline-shield-Celerium.Auvik]][Az_Pipeline-url-Celerium.Auvik] |
+|Celerium.ITGlue| PowerShell wrapper for the [ITGlue API](https://api.itglue.com/developer) | [![PoshGallery_Version][PoshGallery_Version-shield-Celerium.ITGlue]][PoshGallery_Version-url-Celerium.ITGlue] | [![Az_Pipeline][Az_Pipeline-shield-Celerium.ITGlue]][Az_Pipeline-url-Celerium.ITGlue] |
+|Celerium.RocketCyber| PowerShell wrapper for the [RocketCyber API](https://api-doc.rocketcyber.com/#intro) | [![PoshGallery_Version][PoshGallery_Version-shield-Celerium.RocketCyber]][PoshGallery_Version-url-Celerium.RocketCyber] | [![Az_Pipeline][Az_Pipeline-shield-Celerium.RocketCyber]][Az_Pipeline-url-Celerium.RocketCyber] |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,15 +84,19 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Celerium/Cel
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Az_Pipeline-shield-Celerium.ITGlue]:               https://img.shields.io/azure-devops/build/AzCelerium/Celerium.ITGlue/12?style=for-the-badge&label=DevOps_Build
-[Az_Pipeline-url-Celerium.ITGlue]:                  https://dev.azure.com/AzCelerium/Celerium.ITGlue/_build?definitionId=12
-[Az_Pipeline-shield-Celerium.Auvik]:               https://img.shields.io/azure-devops/build/AzCelerium/Celerium.Auvik/13?style=for-the-badge&label=DevOps_Build
-[Az_Pipeline-url-Celerium.Auvik]:                  https://dev.azure.com/AzCelerium/Celerium.Auvik/_build?definitionId=13
+[Az_Pipeline-shield-Celerium.Auvik]:        https://img.shields.io/azure-devops/build/AzCelerium/Celerium.Auvik/13?style=for-the-badge&label=DevOps_Build
+[Az_Pipeline-url-Celerium.Auvik]:           https://dev.azure.com/AzCelerium/Celerium.Auvik/_build?definitionId=13
+[Az_Pipeline-shield-Celerium.ITGlue]:       https://img.shields.io/azure-devops/build/AzCelerium/Celerium.ITGlue/12?style=for-the-badge&label=DevOps_Build
+[Az_Pipeline-url-Celerium.ITGlue]:          https://dev.azure.com/AzCelerium/Celerium.ITGlue/_build?definitionId=12
+[Az_Pipeline-shield-Celerium.RocketCyber]:  https://img.shields.io/azure-devops/build/AzCelerium/Celerium.RocketCyber/14?style=for-the-badge&label=DevOps_Build
+[Az_Pipeline-url-Celerium.RocketCyber]:     https://dev.azure.com/AzCelerium/Celerium.RocketCyber/_build?definitionId=14
 
+[PoshGallery_Version-shield-Celerium.Auvik]:        https://img.shields.io/powershellgallery/v/Celerium.Auvik?include_prereleases&style=for-the-badge
+[PoshGallery_Version-url-Celerium.Auvik]:           https://www.powershellgallery.com/packages/Celerium.Auvik
 [PoshGallery_Version-shield-Celerium.ITGlue]:       https://img.shields.io/powershellgallery/v/Celerium.ITGlue?include_prereleases&style=for-the-badge
 [PoshGallery_Version-url-Celerium.ITGlue]:          https://www.powershellgallery.com/packages/Celerium.ITGlue
-[PoshGallery_Version-shield-Celerium.Auvik]:       https://img.shields.io/powershellgallery/v/Celerium.Auvik?include_prereleases&style=for-the-badge
-[PoshGallery_Version-url-Celerium.Auvik]:          https://www.powershellgallery.com/packages/Celerium.Auvik
+[PoshGallery_Version-shield-Celerium.RocketCyber]:  https://img.shields.io/powershellgallery/v/Celerium.RocketCyber?include_prereleases&style=for-the-badge
+[PoshGallery_Version-url-Celerium.RocketCyber]:     https://www.powershellgallery.com/packages/Celerium.RocketCyber
 
 [GitHub_License-shield]:            https://img.shields.io/github/license/Celerium/Celerium-PowerShell?style=for-the-badge
 [GitHub_License-url]:               https://github.com/Celerium/Celerium-PowerShell/blob/master/LICENSE
