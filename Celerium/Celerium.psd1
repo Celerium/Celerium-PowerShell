@@ -49,9 +49,9 @@
 
     # Modules that must be imported into the global environment prior to importing this module
     RequiredModules = @(
-        @{ ModuleName = 'Celerium.Auvik';       ModuleVersion = '1.1.0'; Guid = 'c4624e25-e787-48eb-a8d5-a4c8e287412f' },
-        @{ ModuleName = 'Celerium.ITGlue';      ModuleVersion = '1.0.0'; Guid = 'ce707f0f-1969-4192-a08b-80f62be28f2f' },
-        @{ ModuleName = 'Celerium.RocketCyber'; ModuleVersion = '1.0.0'; Guid = 'cba0c431-1670-43d7-a2db-4ab683da7dcb' }
+        @{ ModuleName = 'Celerium.Auvik';       ModuleVersion = '1.2.0'; Guid = 'c4624e25-e787-48eb-a8d5-a4c8e287412f' },
+        @{ ModuleName = 'Celerium.ITGlue';      ModuleVersion = '1.1.0'; Guid = 'ce707f0f-1969-4192-a08b-80f62be28f2f' },
+        @{ ModuleName = 'Celerium.RocketCyber'; ModuleVersion = '1.1.0'; Guid = 'cba0c431-1670-43d7-a2db-4ab683da7dcb' }
     )
 
     # Assemblies that must be loaded prior to importing this module
