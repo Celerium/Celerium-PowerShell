@@ -12,7 +12,7 @@
     # RootModule = 'Celerium.psm1'
 
     # Version number of this module.
-    ModuleVersion = '1.3.0'
+    ModuleVersion = '1.4.0'
 
     # ID used to uniquely identify this module
     GUID = 'c1b1c1e0-0ba5-4c69-bd92-393d69d10a62'
