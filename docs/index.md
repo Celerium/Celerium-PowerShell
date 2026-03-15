@@ -68,6 +68,7 @@ The following table contains a list of the PowerShell rollup modules.
 | Module        | Description                                                   | PowerShell Gallery                                                            | Build Status                                   |
 |---------------|---------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------|
 |Celerium.Auvik| PowerShell wrapper for the [Auvik API](https://auvikapi.us1.my.auvik.com/docs) | [![PoshGallery_Version][PoshGallery_Version-shield-Celerium.Auvik]][PoshGallery_Version-url-Celerium.Auvik] | [![Az_Pipeline][Az_Pipeline-shield-Celerium.Auvik]][Az_Pipeline-url-Celerium.Auvik] |
+|Celerium.DattoBCDR| PowerShell wrapper for the [DattoBCDR API](https://celerium.github.io/Celerium.DattoBCDR/) | [![PoshGallery_Version][PoshGallery_Version-shield-Celerium.DattoBCDR]][PoshGallery_Version-url-Celerium.DattoBCDR] | [![Az_Pipeline][Az_Pipeline-shield-Celerium.DattoBCDR]][Az_Pipeline-url-Celerium.DattoBCDR] |
 |Celerium.DattoRMM| PowerShell wrapper for the [DattoRMM API](https://rmm.datto.com/help/en/Content/2SETUP/APIv2.htm) | [![PoshGallery_Version][PoshGallery_Version-shield-Celerium.DattoRMM]][PoshGallery_Version-url-Celerium.DattoRMM] | [![Az_Pipeline][Az_Pipeline-shield-Celerium.DattoRMM]][Az_Pipeline-url-Celerium.DattoRMM] |
 |Celerium.ITGlue| PowerShell wrapper for the [ITGlue API](https://api.itglue.com/developer) | [![PoshGallery_Version][PoshGallery_Version-shield-Celerium.ITGlue]][PoshGallery_Version-url-Celerium.ITGlue] | [![Az_Pipeline][Az_Pipeline-shield-Celerium.ITGlue]][Az_Pipeline-url-Celerium.ITGlue] |
 |Celerium.RocketCyber| PowerShell wrapper for the [RocketCyber API](https://api-doc.rocketcyber.com/#intro) | [![PoshGallery_Version][PoshGallery_Version-shield-Celerium.RocketCyber]][PoshGallery_Version-url-Celerium.RocketCyber] | [![Az_Pipeline][Az_Pipeline-shield-Celerium.RocketCyber]][Az_Pipeline-url-Celerium.RocketCyber] |
@@ -100,6 +101,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Celerium/Cel
 
 [Az_Pipeline-shield-Celerium.Auvik]:        https://img.shields.io/azure-devops/build/AzCelerium/Celerium.Auvik/13?style=for-the-badge&label=DevOps_Build
 [Az_Pipeline-url-Celerium.Auvik]:           https://dev.azure.com/AzCelerium/Celerium.Auvik/_build?definitionId=13
+[Az_Pipeline-shield-Celerium.DattoBCDR]:     https://img.shields.io/azure-devops/build/AzCelerium/Celerium.DattoBCDR/17?style=for-the-badge&label=DevOps_Build
+[Az_Pipeline-url-Celerium.DattoBCDR]:        https://dev.azure.com/AzCelerium/Celerium.DattoBCDR/_build?definitionId=17
 [Az_Pipeline-shield-Celerium.DattoRMM]:     https://img.shields.io/azure-devops/build/AzCelerium/Celerium.DattoRMM/15?style=for-the-badge&label=DevOps_Build
 [Az_Pipeline-url-Celerium.DattoRMM]:        https://dev.azure.com/AzCelerium/Celerium.DattoRMM/_build?definitionId=15
 [Az_Pipeline-shield-Celerium.ITGlue]:       https://img.shields.io/azure-devops/build/AzCelerium/Celerium.ITGlue/12?style=for-the-badge&label=DevOps_Build
@@ -109,6 +112,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Celerium/Cel
 
 [PoshGallery_Version-shield-Celerium.Auvik]:        https://img.shields.io/powershellgallery/v/Celerium.Auvik?include_prereleases&style=for-the-badge
 [PoshGallery_Version-url-Celerium.Auvik]:           https://www.powershellgallery.com/packages/Celerium.Auvik
+[PoshGallery_Version-shield-Celerium.DattoBCDR]:     https://img.shields.io/powershellgallery/v/Celerium.DattoBCDR?include_prereleases&style=for-the-badge
+[PoshGallery_Version-url-Celerium.DattoBCDR]:        https://www.powershellgallery.com/packages/Celerium.DattoBCDR
 [PoshGallery_Version-shield-Celerium.DattoRMM]:     https://img.shields.io/powershellgallery/v/Celerium.DattoRMM?include_prereleases&style=for-the-badge
 [PoshGallery_Version-url-Celerium.DattoRMM]:        https://www.powershellgallery.com/packages/Celerium.DattoRMM
 [PoshGallery_Version-shield-Celerium.ITGlue]:       https://img.shields.io/powershellgallery/v/Celerium.ITGlue?include_prereleases&style=for-the-badge
